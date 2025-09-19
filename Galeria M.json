@@ -1,0 +1,55 @@
+[
+  {
+    "id":1,
+      "name":"Hipter's",
+      "imagen":"Vimg/Beige.jpg",
+      "Sexo":"M",
+      "InfoExtra":"Una camisa con sudedera, pantalones largos y zapatos consul.",
+      "precio": 12.00
+  },
+
+  {
+    "id":2,
+      "name":"Ropa casual",
+      "imagen":"Vimg/Casuan.png",
+      "Sexo":"M",
+      "InfoExtra":"Una camiseta, pantalones holgados y zapatos deportivos.",
+      "precio": 10.00
+  }, 
+
+  {
+    "id":3,
+      "name":"Traje entero",
+      "imagen":"Vimg/pinguinol.png",
+      "Sexo":"M",
+      "InfoExtra":"Vestimenta formal en negro completa, con corbata y zapatos elegantes.",
+      "precio": 20.75
+  },
+
+  {
+    "id":4,
+      "name":"Uniforme escolar",
+      "imagen":"Vimg/Escolar.png",
+      "Sexo":"M",
+      "InfoExtra":"Vestuario para secundaria o para la Universidad.",
+      "precio": 5.00
+  },
+
+   {
+    "id":5,
+      "name":"Traje elegante",
+      "imagen":"Vimg/Escolar.png",
+      "Sexo":"M",
+      "InfoExtra":"Camisa celeste con moño incluido, pantalon con tirantes y zapatos con tacon.",
+      "precio": 18.00
+  },
+
+   {
+    "id":6,
+      "name":"Traje formal",
+      "imagen":"Vimg/Escolar.png",
+      "Sexo":"M",
+      "InfoExtra":"Camisa sin corbata para aborchar y pantalones beige.",
+      "precio": 15.00
+  }
+]

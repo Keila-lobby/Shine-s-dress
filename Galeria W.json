@@ -1,0 +1,55 @@
+[
+  {
+      "id":1,
+      "name":"Vestido con flores",
+      "imagen":"Vimg/Vest-1.jpg",
+      "Sexo":"F",
+      "InfoExtra":"Vestido acampanado de color rosa, para abrochar y largo hasta las pantorrillas.",
+      "precio": 1.50
+  },
+
+  {
+      "id":2,
+      "name":"Vestido largo",
+      "imagen":"Vimg/Vest-2.jpg",
+      "Sexo":"F",
+      "InfoExtra":"Vestido de pecho descubierto y holgado que llega al suelo.",
+      "precio": 2.00
+  },
+
+  {
+      "id":3,
+      "name":"Vestido de manga media",
+      "imagen":"Vimg/Vest-3.jpg",
+      "Sexo":"F",
+      "InfoExtra":"Vestido negro con mangas hasta los codos y larga hasta cubrir las rodillas.",
+      "precio": 1.00
+  },
+
+  {
+    "id":4,
+      "name":"Vestido ajustado",
+      "imagen":"Vimg/Vest-4.jpg",
+      "Sexo":"M",
+      "InfoExtra":"Vestido blanco, largo hasta llegar al suelo y que resalta la cintura; adecuado para eventos formales.",
+      "precio": 20.00
+  },
+
+  {
+    "id":5,
+      "name":"Vestido azulado",
+      "imagen":"Vimg/Vest-5.jpg",
+      "Sexo":"M",
+      "InfoExtra":"Vestido de mangas cortas semi-desnudas y largo hasta los tobillos; recomendable para actividades de alta clase.",
+      "precio": 16.00
+  }, 
+
+  {
+    "id":6,
+      "name":"Vestido color marino",
+      "imagen":"Vimg/Vest-6 tiny.jpg",
+      "Sexo":"M",
+      "InfoExtra":"Vestido con degredado, mangas largas y largo hasta llegar al suelo; se recomienda no limpiar a mano.",
+      "precio": 25
+  }
+]
